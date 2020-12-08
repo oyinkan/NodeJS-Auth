@@ -1,8 +1,8 @@
 ## NodeJS Authentication Endpoints
 
 ### Requirements
-> NodeJS
-> NPM
-> Postman
+- NodeJS
+- NPM
+- Postman
 
 ### Project Setup
